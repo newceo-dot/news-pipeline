@@ -53,5 +53,60 @@
     "score": 8,
     "reason": "증시 불안 속에서 개인 투자자 자금이 5%대 채권으로 이동하는 수급 변화는 투자 전략 수립에 유용한 시장 트렌드 정보입니다.",
     "hook": "증시 부진에…개미들 5% 이자 채권 쏠림"
+  },
+  "9369d0f01506": {
+    "id": "9369d0f01506",
+    "title": "\"12월 연준 금리 동결 가능성 배제하지 않아야\" | - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tNjNkZjJOaWM5UEhJeEszWWxuQ0NqbmNyM3RBeWZnbDZ3elVxNmlEZUVpYUh3R0lITGJ3dmI0czM0Z3Etb0VkSV9mN3BxYzVZMWFLZVlXUl9vUWRXNW9IU2NBd3JSYXhBLXA1ZFVpZkNQLXRU?oc=5",
+    "source": "연합인포맥스",
+    "published": "Thu, 12 Nov 2026 01:23:31 GMT",
+    "collected_at": 1794472963,
+    "score": 9,
+    "reason": "미국 연준의 12월 금리 동결 가능성 제기로 시장 전반의 긴장감이 고조됨.",
+    "hook": "12월 연준 금리 동결? 증시 긴장감 고조"
+  },
+  "1efe5ddb7f3c": {
+    "id": "1efe5ddb7f3c",
+    "title": "코인·우라늄 사서 몸집 불리던 기업들, MSCI 철퇴에 줄퇴출 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lQk1DT1pFVTE0YmdhMUw0SGlJdjFyNmJTdGtQbFZUZXVBOTRpRzZ6WlhvUUhYTG1CVzFpNjVpUl9nWWU5RExPX2hDN2VCQ0ltMEE?oc=5",
+    "source": "매일경제 마켓",
+    "published": "Thu, 12 Nov 2026 01:52:52 GMT",
+    "collected_at": 1794472964,
+    "score": 9,
+    "reason": "비트코인 보유 기업들의 MSCI 지수 퇴출로 코인 및 증시 투자심리 위축.",
+    "hook": "비트코인 보유 기업들 MSCI 퇴출 충격"
+  },
+  "2cabe5e54188": {
+    "id": "2cabe5e54188",
+    "title": "코어위브 훈풍에 뉴욕증시 일제히 상승…나스닥 1.6%↑ - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HTGRySGVXNnpUdjgycnp5UFJlWnNWZkFrcmpUdW9kSl8xV0pDZ1BHdGhqWWdYcWVjN3hpYW55RjNVdU94NENOY3lta0x1YjhzS0pMb2o4anlqc3fSAWBBVV95cUxOWXpLTXh5YlBva1JCX1dRcXNKNG5fbnJiZXNyd2laM212R0tGb2lGVXI5MmVTOVhRa3BPa2hySEh5cVp6SDNCaFQ0amc4bDZlTzdnbEtFUUJ3OU13eDBpMVY?oc=5",
+    "source": "연합뉴스",
+    "published": "Wed, 11 Nov 2026 21:19:10 GMT",
+    "collected_at": 1794472962,
+    "score": 8,
+    "reason": "AI 관련 호재에 힘입어 뉴욕증시가 반등하며 글로벌 증시 심리 개선.",
+    "hook": "코어위브 훈풍에 나스닥 1.6% 급등!"
+  },
+  "7ae342a7e7cb": {
+    "id": "7ae342a7e7cb",
+    "title": "환율, 수출업체 달러매도 등에 보름 만에 1,320원대로 하락 - 한국무역협회-KITA.NET",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOHAtWTRxQktUZGlWMXM4cWdRRG00WExxMHYzYkhhZ3VGajZwV3EwZElUU0QxLVRVV2dlUW10dGltTTRYYk94cmVEYTE5dWZTV0xYcFJCS3QyYnV3ZlI0c1JzaXcwZFZYX2dmbDg5UEpNSkNpc2dwaEJPRHFYQWsweHgtTUxxSW11Tlh0NTl0YTg1dmU2QllJX3hERnJKc0RWLVV1QTBPSlpEdzQzcnJOT1JRZjVuRi1qeFFoYWhDeTgwRGZ3em5rWE9tVEx1RmJuaUtPeHBB?oc=5",
+    "source": "한국무역협회-KITA.NET",
+    "published": "Thu, 12 Nov 2026 07:50:19 GMT",
+    "collected_at": 1794472962,
+    "score": 8,
+    "reason": "달러 매물 출회로 환율이 하락하며 국내 증시 외국인 수급에 긍정적 영향을 줌.",
+    "hook": "원/달러 환율 급락! 1320원대 안착"
+  },
+  "a6901daaeec6": {
+    "id": "a6901daaeec6",
+    "title": "금융 당국 “가상자산 콜드월렛 비중 최대화·24시간 모니터링” - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZ2JENk42NGVKYTA2bGxaV1daUUs3MlIwdnBJc29rZWhrcFpCNmd4WmI3OUg3RkhpSW04MzVIeEZoWTd4SzRFLUFkVm9zYjVHWjlodURNU2hpRFU?oc=5",
+    "source": "KBS 뉴스",
+    "published": "Thu, 12 Nov 2026 07:39:00 GMT",
+    "collected_at": 1794472962,
+    "score": 8,
+    "reason": "금융당국의 가상자산 보안 및 모니터링 강화 정책으로 코인 시장 전반 영향.",
+    "hook": "금융당국, 가상자산 24시간 모니터링"
   }
 }
