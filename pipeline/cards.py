@@ -64,7 +64,7 @@ def frame(page, total):
     img = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(img)
     today = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).strftime("%m.%d")
-    d.text((M, 80), f"오늘의 투자뉴스 · {today}", font=font("regular", 30), fill=SUB)
+    d.text((M, 80), f"MARKET 7 · {today}", font=font("regular", 30), fill=SUB)
     d.text((W - M, 80), f"{page}/{total}", font=font("regular", 30), fill=SUB, anchor="ra")
     d.line((M, H - 130, W - M, H - 130), fill=LINE, width=2)
     if ACCOUNT_NAME:
@@ -99,7 +99,7 @@ def render(item, script):
 
     # 3) 마무리
     img, d = frame(total, total)
-    y = text_block(d, (M, 330), "매일 아침\n투자뉴스를 정리해요", font("bold", 72), INK, maxw, 1.35)
+    y = text_block(d, (M, 330), "시장을 움직이는\n핵심 뉴스만 골라요", font("bold", 72), INK, maxw, 1.35)
     if ACCOUNT_NAME:
         d.text((M, y + 40), f"팔로우 {ACCOUNT_NAME}", font=font("bold", 40), fill=ACCENT)
     src = item.get("source") or "언론 보도"

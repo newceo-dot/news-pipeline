@@ -49,4 +49,5 @@ FEEDS = [
     "https://news.google.com/rss/search?q=%ED%99%98%EC%9C%A8+when:1d&hl=ko&gl=KR&ceid=KR:ko",
     "https://news.google.com/rss/search?q=%EA%B8%88%EB%A6%AC+when:1d&hl=ko&gl=KR&ceid=KR:ko",
     "https://news.google.com/rss/search?q=ETF+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8+when:1d&hl=ko&gl=KR&ceid=KR:ko",  # 비트코인
 ]
