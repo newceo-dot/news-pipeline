@@ -108,5 +108,60 @@
     "score": 8,
     "reason": "금융당국의 가상자산 보안 및 모니터링 강화 정책으로 코인 시장 전반 영향.",
     "hook": "금융당국, 가상자산 24시간 모니터링"
+  },
+  "db5d4b06c5c1": {
+    "id": "db5d4b06c5c1",
+    "title": "BofA \"연준, 다음 달부터 3회 연속 금리 인상\"…1월 전망 추가 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUGQ3T1lmeDBuT3dOUklaQ0hOUEFxS1dTcUpmMXFFci1EX05QNjlIaUgzQ1ZkNFZpNFN6ZlVVU2ZfMzRYRE1yajc3SElEd1FyNE40anQtbE1vek1LMGNGRTZtQ2xzbG11QUxkdUw4dG0?oc=5",
+    "source": "연합인포맥스",
+    "published": "Fri, 13 Nov 2026 16:41:56 GMT",
+    "collected_at": 1794615060,
+    "score": 9,
+    "reason": "연준의 추가 금리 인상 가능성이 글로벌 증시와 환율 전반에 미치는 파급력이 큼",
+    "hook": "연준 연속 금리인상? 3연속 인상 경고등"
+  },
+  "2b9c597d0ebe": {
+    "id": "2b9c597d0ebe",
+    "title": "젠슨 황 사임에 금리공포 겹쳐… 비트코인, 1억→9천만 ‘뚝’ [주간코인시황] - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHOGVNNjc3MDVtQkdzUnFLZ1FsMzNQQkxmM0lxc25SY3JUbDQ4bWxuRzIwNnEtRHdFSzMyQkJ4cnNxV0xFSl8ydktaWklnczR3UnBGd0hvWWM2MlRYSEUzU05EbzBObDlBZTlfbTIyVnbSAXRBVV95cUxPSGVteUZtU3d3Y25uazJrYzhMVjhZcXNyUTBQckxuall6VVVtcGhqMElocGlBQ3VDQnJMM2ZaX21odUNwOW9mamMtRnNsOHJWRU9TUFl3SHJEU09uaVJJaVY2bmVDeUdZR2NKSEZ3SnFzWTVFYw?oc=5",
+    "source": "IT조선",
+    "published": "Fri, 13 Nov 2026 21:00:00 GMT",
+    "collected_at": 1794615060,
+    "score": 9,
+    "reason": "엔비디아 악재와 금리 공포가 동시 작용하며 비트코인 등 위험자산이 급락함",
+    "hook": "비트코인 9천만 원 붕괴! 악재 겹쳤다"
+  },
+  "2ae6f25a9b8a": {
+    "id": "2ae6f25a9b8a",
+    "title": "\"K뷰티, 월가 새 투자 테마로\"…뉴욕증시에 전용 ETF 상장 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15R3RJQ0N3SmRqMUcwSTBXSXRNWDlTTmExT01xaGNQcm9oMngtQ2ZSUGxtRWp4cXRoYWQ4V0dRX2ZReG1nYm4wMThIeVpRd2tVNTNmbUhuMFFPd2JHMnJYMNIBYEFVX3lxTE15R3RJQ0N3SmRqMUcwSTBXSXRNWDlTTmExT01xaGNQcm9oMngtQ2ZSUGxtRWp4cXRoYWQ4V0dRX2ZReG1nYm4wMThIeVpRd2tVNTNmbUhuMFFPd2JHMnJYMA?oc=5",
+    "source": "연합뉴스",
+    "published": "Fri, 13 Nov 2026 20:48:43 GMT",
+    "collected_at": 1794615059,
+    "score": 8,
+    "reason": "K-뷰티 테마가 월가에서 인정받고 미국 증시에 관련 ETF가 첫 상장된 대형 호재",
+    "hook": "월가까지 접수한 K뷰티, 뉴욕 상장!"
+  },
+  "0adaffd51479": {
+    "id": "0adaffd51479",
+    "title": "영풍, 고려아연 신주발행 무효 항소심 패소…1심 뒤집혀 - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hWDVLME1lOXFQMW5aeWlVWVJFX1ZCT3NjQ0N0NFNBOWpDcjFaaTJWakJLVEIxa2wzSVFzWDljblpYZUIyVWVzdnYtX0V5bmpGaHEtS2dqOG05dG8?oc=5",
+    "source": "KBS 뉴스",
+    "published": "Fri, 13 Nov 2026 09:23:00 GMT",
+    "collected_at": 1794615058,
+    "score": 8,
+    "reason": "시장 관심이 집중된 고려아연 경영권 분쟁 판결이 2심에서 뒤집혀 지배구조 파장 예상",
+    "hook": "고려아연 판결 반전! 2심서 뒤집혔다"
+  },
+  "f98caf00460e": {
+    "id": "f98caf00460e",
+    "title": "李 “골 깊으면 산 높을것” 증시 정상화 개혁기구 지시 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxT2JwOUJ3WmFmWW5mdHdoYTFpZW9LTW5pcl9oYmNiUk1EWThRdVczZlV2VUJBeGgtbUFkN28wZWd3MHZPSElEQUtFTXR4UGpGRUp1cWxYUWt5WWZXTllXamdEZ1FnaHExM2FyOVNiUUtfaVo3ZUHSAWZBVV95cUxOaGxkU194OVI2cDRJcUxpOGpmV1NuRzFQRjEzMGh4QTJZdGE1NmRZZ210NEJlZzQwdzN6VnV1U00wU2hEMjZNQXg5ZmVlYXNzbGNuU1hsSzRoOWZaS1VjSVU0NmdnRHc?oc=5",
+    "source": "동아일보",
+    "published": "Fri, 13 Nov 2026 16:40:00 GMT",
+    "collected_at": 1794615059,
+    "score": 8,
+    "reason": "증시 침체 대응을 위한 정부의 직접적인 증시 정상화 개혁기구 지시 정책 이슈",
+    "hook": "증시 개혁기구 지시! 코스피 반등할까"
   }
 }
