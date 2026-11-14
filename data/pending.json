@@ -163,5 +163,60 @@
     "score": 8,
     "reason": "증시 침체 대응을 위한 정부의 직접적인 증시 정상화 개혁기구 지시 정책 이슈",
     "hook": "증시 개혁기구 지시! 코스피 반등할까"
+  },
+  "afd6930b95b8": {
+    "id": "afd6930b95b8",
+    "title": "연준 '매파 합창'…12월 넘어 내년까지 금리 올리나 - 블루밍비트",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kU255UTNZUjVTMzVEcGs5ekpsQ085dmNURGkxcHFIb1hfMG1CVUJtYmJ6Ml9xMTFMUUZnMjBTVkE4TXM3Rm9MV0Y1NnBSRFlD?oc=5",
+    "source": "블루밍비트",
+    "published": "Sat, 14 Nov 2026 01:25:01 GMT",
+    "collected_at": 1794682765,
+    "score": 10,
+    "reason": "미 연준의 추가 금리 인상 우려가 증시 및 자산 시장 전반에 미치는 영향이 매우 큼",
+    "hook": "12월에도 금리 인상? 연준 매파 경고"
+  },
+  "84acbc951161": {
+    "id": "84acbc951161",
+    "title": "[뉴욕환시] 달러 나흘째↑…끈적한 美 도매물가에 인플레 우려 지속 | - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZOVR4Vm0yTkxhQV85SEs3QXZzRjdqdG9MV252M182UWJsNWpzNmN0Y3h4Unp2MnhFNExJSmdLQTFlSk50VlpLUEZwaVY4UjlSMHYtSUNOWlVHeE9kLXRwcDFodVY1UGJaYTdyaXRMU0xHUFBM?oc=5",
+    "source": "연합인포맥스",
+    "published": "Fri, 13 Nov 2026 23:26:29 GMT",
+    "collected_at": 1794682764,
+    "score": 9,
+    "reason": "미국 도매물가 상승에 따른 강달러 지속으로 고환율이 국내 증시와 경제에 미치는 파급력 심화",
+    "hook": "치솟는 달러값, 환율 1330원 돌파"
+  },
+  "c70566e0d13b": {
+    "id": "c70566e0d13b",
+    "title": "“비트코인 못해먹겠네”…툭하면 강제청산, 7만달러 다시 붕괴 [머니+] - 에너지경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wbG1Ic2ctb21xQlpGZkdmRXNYTm5tbllYNUpUYkJUMnk0RDF5RklxUUZ1WkF0aWhOUERid2hINXl2N0RmT3hVTXQzZUV0RWltOXNSMW56dm5ETmM?oc=5",
+    "source": "에너지경제신문",
+    "published": "Sat, 14 Nov 2026 03:58:06 GMT",
+    "collected_at": 1794682764,
+    "score": 9,
+    "reason": "비트코인 7만 달러선 무너지며 가상자산 변동성이 극대화되어 개인투자자 관심도 높음",
+    "hook": "비트코인 7만달러 붕괴! 청산 주의보"
+  },
+  "c2b6b642bfe0": {
+    "id": "c2b6b642bfe0",
+    "title": "월가 달구는 K-뷰티…아모레·파마리서치 담은 ETF, 뉴욕증시 상장 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jSVh1UV80LVFQYmxBSWIxd3J3ZjZ3UW9hdlNFLTdvZmduUHZ1OW1fUDR1M3g3TWZvS1lJa1p0Yi03WWZGbzZHYkZUYU5FTHN6NUstTzRPZnJFbG9IbTBEdHhBeG1oQk5f0gFuQVVfeXFMUHRTUnQ5VHdiOTZSM29aSFVzTFEzekFwZmdVMWE1dFB1eGlqQUozMkcwN0h2UWd5MlY2dEFwbXlzNTNGV0dmd21Zd3VPbVNpZkhPSW1UYjItUGhkMG5peC1PX1VNSVFVWkdTc0lqMEE?oc=5",
+    "source": "머니투데이",
+    "published": "Sat, 14 Nov 2026 17:05:27 GMT",
+    "collected_at": 1794682764,
+    "score": 8,
+    "reason": "월가 뉴욕증시에 K-뷰티 전용 ETF가 최초 상장되며 국장 및 글로벌 투자 테마로 주목",
+    "hook": "뉴욕증시 상장된 K뷰티 전용 ETF"
+  },
+  "1b2c4205e11d": {
+    "id": "1b2c4205e11d",
+    "title": "국민연금, 3분기 美 주식 평가액 36억弗 증가…빅테크가 견인 - 동행일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yNG9EcnpuYjg1MlVxTXZsNmtvUlY2TzR5Q19meVhfTkpWdWk0VEJscVQwV1A3WEI0UmQxRFNMX3IxNEpBS0w4Q2plbXNfUW1QZDJwZ2NDWVRONHBSZmRuV0Z5MkZSYU1X?oc=5",
+    "source": "동행일보",
+    "published": "Sat, 14 Nov 2026 09:23:00 GMT",
+    "collected_at": 1794682764,
+    "score": 8,
+    "reason": "개인투자자의 관심이 높은 국민연금의 해외 빅테크 포트폴리오 및 3분기 수익 성과 공개",
+    "hook": "국민연금 계좌 대박 낸 '이 주식'"
   }
 }
