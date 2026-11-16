@@ -273,5 +273,60 @@
     "score": 8,
     "reason": "서울 부동산 시장의 매물 증가와 매수 심리 위축은 개인투자자의 자산 배분 전략에 직접적인 영향을 미칩니다.",
     "hook": "서울 아파트 매수 심리 꺾여, 조정장 오나"
+  },
+  "2653b5a36b65": {
+    "id": "2653b5a36b65",
+    "title": "‘젠슨 황 쇼크’ 언제 끝나나...코스피·코스닥 나란히 3% 넘게 급락 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFE4V054VmxfdV9TOVRwTG02N01EWEU2ZTZHcU54a2tVYUVuZ2NIdS1qQ2ZhbURrSU5tT2Z2RXhsMEVmTjBNaVVSaVk3Y2VqWGdRODNtaEJDWUN1X3RvNDI2MGstaXM5QWFvRzhwWDZpNjlmdVEwVHBwUFlxWVZJMQ?oc=5",
+    "source": "조선일보",
+    "published": "Mon, 16 Nov 2026 01:33:00 GMT",
+    "collected_at": 1794817162,
+    "score": 10,
+    "reason": "젠슨 황 쇼크로 코스피·코스닥이 3% 넘게 급락하며 개인투자자에게 직접적 충격을 줌",
+    "hook": "코스피 3% 폭락! 젠슨 황 쇼크의 전말"
+  },
+  "48905409fd22": {
+    "id": "48905409fd22",
+    "title": "신규 코픽스 2년 8개월 만에 최고…주담대 금리 더 오른다 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WMFZwVGlrVkh1RzF3bzZTc2pFOTVEbDhhemJ6QUhkYXJ2b0Y4aWE0cnhpbGJaS016NFltN1RiVUNOUDF1OVJCNnBxVGY5VDFCY296WVBESjBhcGfSAWBBVV95cUxPMXNjdFZFeTFFSFZCdUVFMUp0WDF4cVBraGF6aHpzYTd0NUlyTHh2dXdHRlNaa0wxbi1Xb1I0OGRHZGY4cWNpTEUtN2tJX094akhJUzZSTEpsRlBZMW50eUU?oc=5",
+    "source": "연합뉴스",
+    "published": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "collected_at": 1794817164,
+    "score": 9,
+    "reason": "코픽스가 2년 8개월 만에 최고치를 기록하며 대출 체감 부담이 크게 증가함",
+    "hook": "주담대 금리 비상! 코픽스 2년8개월래 최고"
+  },
+  "4c41249737c0": {
+    "id": "4c41249737c0",
+    "title": "카카오뱅크, 애플페이 도입…국내 은행권 최초 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9reVpLX0NfWjJwUXlwU3p2TG96bmxZWFRBYmswcS1mV0FFRWRXM1JLZ25IRWNiNlNjWjhjWGFIc3M5XzJ2UmkxTHBoSjN0Z2JJYi1XdmdweVhZaG9hVG93dVJCMG9fYWV6M3Vjdm5GMDA?oc=5",
+    "source": "연합인포맥스",
+    "published": "Mon, 16 Nov 2026 05:53:56 GMT",
+    "collected_at": 1794817162,
+    "score": 9,
+    "reason": "국내 은행권 최초로 카카오뱅크가 애플페이를 도입하여 금융 유저층의 관심이 매우 높음",
+    "hook": "카뱅, 애플페이 전격 도입! 은행권 최초"
+  },
+  "d14496d3951a": {
+    "id": "d14496d3951a",
+    "title": "엔비디아 급락이 美국채시장까지 흔들었다…금리 5% 복귀 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52a0Z4bkdxc2ZDZ0tVa255LUU1ZGJ2MWhfRHpIT0xFUVVYZHkyVkh3U0tCOUt4SjJfUTJFLUhEYUtOb2hhSnBsYi1lOW1nVEpDbDZ1b2kxdFp1dw?oc=5",
+    "source": "한국경제",
+    "published": "Mon, 16 Nov 2026 03:56:44 GMT",
+    "collected_at": 1794817164,
+    "score": 8,
+    "reason": "엔비디아 급락 여파로 미 국채 금리가 5%에 재진입하며 글로벌 증시 및 채권 시장을 위협함",
+    "hook": "美 국채 금리 5% 복귀! 자산시장 충격"
+  },
+  "61d94e307167": {
+    "id": "61d94e307167",
+    "title": "토스뱅크, '스테이블코인 해외송금' 보낸다 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtS2dwUlp1eU9NYi12N1dhY203MVV4QnVUWVZfT3BuMkYtb2VpbXpFU0RlV2I2dU42LVZWV0YyN2V0eVBReUJFR2M2MVROQQ?oc=5",
+    "source": "전자신문",
+    "published": "Mon, 16 Nov 2026 00:45:06 GMT",
+    "collected_at": 1794817162,
+    "score": 8,
+    "reason": "토스뱅크의 스테이블코인 해외송금 도입 추진으로 크립토 상용화 이슈 생김",
+    "hook": "토스뱅크, 스테이블코인 해외송금 시작한다"
   }
 }
