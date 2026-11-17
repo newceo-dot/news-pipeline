@@ -328,5 +328,60 @@
     "score": 8,
     "reason": "토스뱅크의 스테이블코인 해외송금 도입 추진으로 크립토 상용화 이슈 생김",
     "hook": "토스뱅크, 스테이블코인 해외송금 시작한다"
+  },
+  "db91c9d8aed8": {
+    "id": "db91c9d8aed8",
+    "title": "[뉴욕증시] 젠슨 황 거취에 휘둘린 증시…필리 반도체 지수 5% 급락 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeEduX3kwZ0Nfd2dEWmJJY0JOVUVtcnZ2NkhpQ3lDMTZ5YnlPZlB0QS1jOEN0LXhtNmRBMHhhbWpacjBhdWxUTVhpS19YSEpvdklKV3hNalRYWXFGaXNfRkw5SWVrdF9YdE4zOGxGWk0?oc=5",
+    "source": "연합인포맥스",
+    "published": "Mon, 16 Nov 2026 21:34:28 GMT",
+    "collected_at": 1794881975,
+    "score": 10,
+    "reason": "젠슨 황 거취 논란과 AI주 매도세로 필라델피아 반도체 지수가 5% 급락해 국내 증시 파장이 불가피합니다.",
+    "hook": "젠슨황 충격! 반도체 지수 5% 폭락"
+  },
+  "379cd5c8edc2": {
+    "id": "379cd5c8edc2",
+    "title": "한은, 이달 기준금리 0.25%p 인상 가능성 커져 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRGR2dWo0VlNOSFlZcTk3ZXN3MmJXZ1MxczRibTFKRWc5WXptQnJBM1NoRmZnYm9Wa1ZkaGRwZFd2Q29YSVVhSVRZM25MelpiWGFIalo1SWxFMEJBY1hOTDZSenJMQV9aenZfNkVldTNUZw?oc=5",
+    "source": "한겨레",
+    "published": "Mon, 16 Nov 2026 23:05:00 GMT",
+    "collected_at": 1794881977,
+    "score": 9,
+    "reason": "한국은행의 기준금리 인상 가능성이 대두되어 개인투자자의 자산 배분 및 증시 유동성에 직접적인 영향을 줍니다.",
+    "hook": "한은, 이달 기준금리 인상 가능성 급등"
+  },
+  "9ab03273750a": {
+    "id": "9ab03273750a",
+    "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeVRwVk5USmt6MzRUSU16LXpVXzA3cW4wUDlRTEJzR1c5NEVIYmQ5WW96VnhBdHBPMGNOejNOR1F2NmtwOTZidUJSMlVwelk4ZndXNWxR?oc=5",
+    "source": "지디넷코리아",
+    "published": "Mon, 16 Nov 2026 12:30:28 GMT",
+    "collected_at": 1794881975,
+    "score": 9,
+    "reason": "국내 증시 대표주인 삼성전자와 SK하이닉스가 역대 최대 투자를 집행하며 반도체 업황 모멘텀을 제시합니다.",
+    "hook": "삼전·하닉 역대 최대! 88조 쏟아부었다"
+  },
+  "25a89cef5770": {
+    "id": "25a89cef5770",
+    "title": "10년간 금리 변동 없는 ‘장기고정형’ 대출, 내년 초 첫선 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ldlZibEkzeV9ibzl0ZG9MOWdGREgxZWFEN0NVYVJTdjVSWHItb3JxbFBUWmY4SDRjeUVtUXVBQ1FqdERLc2hGRDFQRVdDRjBhWFg2eGxn?oc=5",
+    "source": "헤럴드경제",
+    "published": "Tue, 17 Nov 2026 01:30:35 GMT",
+    "collected_at": 1794881977,
+    "score": 8,
+    "reason": "금리 변동성이 큰 시기에 10년 장기 고정금리 대출 상품 도입은 개인 재무 전략에 중요한 변수입니다.",
+    "hook": "10년 금리 고정 대출, 내년 초 첫선"
+  },
+  "cc66f6823f21": {
+    "id": "cc66f6823f21",
+    "title": "[모닝 리포트] 달러/원 환율 상승 압력…강달러·증시 부진에 1340원선 등락 전망 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lRkozOEE0RVBDSV9yR1JiWER5WFdsU2J4dHJYUDVOMThfbEVxRVlVRFY2ZWhXTUlSV3FkS3Rabmthc2xJaEZOR0N3Q3dwZ3IyOTQ4TVpOLWVCVnRv?oc=5",
+    "source": "뉴스핌",
+    "published": "Mon, 16 Nov 2026 23:17:00 GMT",
+    "collected_at": 1794881976,
+    "score": 8,
+    "reason": "미국 증시 약세와 강달러 기조로 환율 상방 압력이 강해져 외국인 수급 및 국장 분위기에 큰 영향을 미칩니다.",
+    "hook": "강달러·증시 급락에 환율 1340원 위협"
   }
 }
