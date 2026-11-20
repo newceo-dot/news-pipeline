@@ -548,5 +548,60 @@
     "score": 7,
     "reason": "개인투자자들의 실생활 자금 유입 및 자산 관리에 도움이 되는 민생·금융 제도 변화",
     "hook": "못 받은 실손보험금, 3년치 한번에?"
+  },
+  "1caa1a5f5d50": {
+    "id": "1caa1a5f5d50",
+    "title": "증시 5% 급락 마감…‘매도 사이드카’ 연이어 발동 - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RjFOZzBubzVsUlV5UHI2V3VfUVNZT0h1WTJuNE9nR2NZUE04T0dTR1BTZUpDdlNsYkk4S1NtelY2U0JUWjhLVlQ2eVlDOFAzQ21kMkhfZ0t5bFhDM0VTMXI3MmFzUQ?oc=5",
+    "source": "KBS 뉴스",
+    "published": "Fri, 20 Nov 2026 08:05:00 GMT",
+    "collected_at": 1795196042,
+    "score": 10,
+    "reason": "코스피 5%대 급락과 매도 사이드카 발동은 개인투자자 시장 전체에 직접적이고 파급력이 가장 큰 최우선 거시 이슈임",
+    "hook": "증시 5% 급락, 매도 사이드카 발동!"
+  },
+  "0060fc65d1cf": {
+    "id": "0060fc65d1cf",
+    "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도 - 마켓인",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wVmt4NHBkVFBpQ1ZYQkIxQUdXUm5FT2FWQ19BaUVxTExPNlROQTVObnJUVWhtN3JXT0NQM2kzV190YkFwNUt4dnF3MzBkUUZUYzdaU0lMc1pIbUFOYXdNR2Nma3g3ZkJubVMtdFZHaEVwTHM?oc=5",
+    "source": "마켓인",
+    "published": "Fri, 20 Nov 2026 11:01:56 GMT",
+    "collected_at": 1795196041,
+    "score": 9,
+    "reason": "삼성전자·SK하이닉스를 중심으로 외국인 자금이 두 달간 45조 원 이탈한 점은 수급 악화의 직접적 원인을 설명함",
+    "hook": "외인 두 달 새 45조 순매도 폭탄"
+  },
+  "3010498ad1f8": {
+    "id": "3010498ad1f8",
+    "title": "美 기술주 급락에 원·달러 환율 반등…1340원선 다시 시험 - 조세일보",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNXR2LUZTdlc3VDltQ1ZFWVk0SVlmN3JqZzZBWGpoQmliTXN1OTFjS3M0ZGpqazZlQUdUb1JMaDRUMVF6dnJSVGtkVGJWd3J1VlZ0OHJlOTg3dGtkZG5j?oc=5",
+    "source": "조세일보",
+    "published": "Fri, 20 Nov 2026 00:03:05 GMT",
+    "collected_at": 1795196042,
+    "score": 8,
+    "reason": "글로벌 위험회피 심리로 원/달러 환율이 1340원선을 다시 시험하며 환율 상승이 수급과 증시에 큰 영향을 미침",
+    "hook": "위험회피 심리에 환율 1340원선 재시험"
+  },
+  "6f60a7daf839": {
+    "id": "6f60a7daf839",
+    "title": "JP모건 \"美연준, 내년 3월까지 3연속 금리 인상할 것\" - 금융소비자뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UVWxfMi1zajFZR3Fza0l2Q09oaWdMVFIxREFUVjNPLUhVbWR2dG1EYWRwa0hUZWN3RElSOXdfd19TYjlsZEI2SWRtcDBUVmExN2VMVjZ4OGdnMkszTGNYb1ZFS25NMWZKVUE?oc=5",
+    "source": "금융소비자뉴스",
+    "published": "Fri, 20 Nov 2026 07:54:15 GMT",
+    "collected_at": 1795196043,
+    "score": 8,
+    "reason": "글로벌 투자은행 JP모건의 연준 금리 추가 인상 전망은 자산 시장 유동성 향방을 가르는 핵심 거시 변수임",
+    "hook": "JP모건: 연준 내년 3연속 금리 인상"
+  },
+  "8aa5a64998c1": {
+    "id": "8aa5a64998c1",
+    "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은? - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUklzWE5YclA3VXNYRzd5U1hjMW9NR1hfUnVyNXAxVzk2aUF5NU1wakpJSFVOU2VSMUhYMWRhN2VZTW5ES2xCTml6eEtsQnJleHVVTzB4cWRMN0NPaU44OE16aU5JUQ?oc=5",
+    "source": "KBS 뉴스",
+    "published": "Fri, 20 Nov 2026 08:46:00 GMT",
+    "collected_at": 1795196041,
+    "score": 8,
+    "reason": "부동산 공시가격 현실화율 5년 연속 동결 발표는 개개인의 세금 부담 및 부동산 자산에 직결되는 민생 이슈임",
+    "hook": "아파트 공시가 69% 동결! 내 보유세는?"
   }
 }
