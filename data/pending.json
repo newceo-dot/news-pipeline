@@ -493,5 +493,60 @@
     "score": 8,
     "reason": "환율 하락이 개인 체감 물가 및 기업 수익성에 미치는 실질적 영향을 분석한 거시 뉴스",
     "hook": "환율 10% 떨어지면 가구당 16만원 절감"
+  },
+  "2111fae76766": {
+    "id": "2111fae76766",
+    "title": "코스피, 4% 안팎 급락 출발‥다시 '5천피' 아래로 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpbEhBNXdVV0lETlJDX2dUdTFrSkVGT3RkSUhSaWFrWU4wUENzNGgwRGl0Ni16VWI2R0xvdU4wSlZaUVpMTFpFT1ByeE1mQkJ4anAtakd2T3pZRjhDVnZIaERlNEdick5Melhwa2JiU0RISFJo0gF0QVVfeXFMTm42Tl9GNl96OW5EajhtUjBfSjd5UmY5VGhyZ0RCYXoxcVphdXlJNjM0NHZqX0FURmd2YzZRa2ktb2R0dGxOYlNCTmxXZzlROVlTZERFcUY0MmJMdWI4dU9odVlsRHVJc001eVY5ZC1LT21wMnY?oc=5",
+    "source": "MBC 뉴스",
+    "published": "Fri, 20 Nov 2026 00:16:24 GMT",
+    "collected_at": 1795136615,
+    "score": 10,
+    "reason": "미 증시 급락과 AI주 투매 충격으로 코스피가 대폭락하며 국내 증시에 직접적인 충격을 줌",
+    "hook": "코스피 4% 급락! 5천피 다시 깨졌다"
+  },
+  "695db1ef02c7": {
+    "id": "695db1ef02c7",
+    "title": "외국인, 10월 국내 주식 25조원 팔았다…두 달 연속 순매도 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTVtYjN6YWs5TEtadUZKNTNtZXZMMENsZVl3MHh3dktLQmFfSXhZdFluNy13VTJIdnNZOGY4MDROQUczc3o3MDBRSXI1Z0JKeWM4b0hFMVk2MlIzajZDOWtCWG4xX1l6ZndSRUtzMm9IelFfb2poRlphV0EzeHVVYlMtcTAzcm1W0gGcAUFVX3lxTFBNcTZuUUhnNUszZzZPczJNZDhTZTlGSk1BSTJKUjFmRHBZNzN2d0JFM3VWVThKQjhQbjRXeUphS0E5cHdlRndPVjl5M1MyeFRobUVOblNHQmcxbDVXRXBQNG1VX2VzbVB0QVhCYW80X0FfY3hfZVAyYW1qT0E2Sl9CTjFzSVRDaVA2UjVPbi04MkdSa2pzMkJMakdXWg?oc=5",
+    "source": "Chosunbiz",
+    "published": "Thu, 19 Nov 2026 21:00:00 GMT",
+    "collected_at": 1795136615,
+    "score": 9,
+    "reason": "외국인 투자자의 대규모 매도세 지속은 국내 증시 수급과 지수 하방 압력에 결정적 영향",
+    "hook": "외국인, 한 달 만에 25조 싹 팔았다"
+  },
+  "4a4444836581": {
+    "id": "4a4444836581",
+    "title": "[인포맥스 POLL] 19명 전문가 중 18명 11월 금통위서 인상 전망 - KB Think",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10b001ZE9OWU5pSXBQMDJlMGtWVzdpbWUteGVsWV9ubWdPMWZGV21hS2VyNi1NWUdTaGhLdEFGYmtBaUY2Q2laTHlCeGdFWWdVN3BWVi1HRDNHMGwycnZwWmZjN1VsdXNZTDFlYUtaT0dQQQ?oc=5",
+    "source": "KB Think",
+    "published": "Thu, 19 Nov 2026 23:00:02 GMT",
+    "collected_at": 1795136616,
+    "score": 9,
+    "reason": "한국은행의 금리 인상 가능성이 유력해지며 투자자들의 이자 부담 및 증시 투심에 직격탄",
+    "hook": "전문가 95% “11월 기준금리 인상”"
+  },
+  "de138d0b3013": {
+    "id": "de138d0b3013",
+    "title": "비트코인 8439만 원대 하락, 금리인상 부담에 투심 악화 '1차 방어선' 6만 달러 - 비즈니스포스트",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uaF9lQktWU0E3NjRBOGlGUlU1X05MbHd6cnFFY3ZSOXRmTHRhSk43Vi1NNTJUMWJnTWtjRVZfTzJnSk9fRHY1eUZlZEttazBKZWZKSlFmZERvZTFMbTFvMmhQcW5WTXFqN0hyZlJ6OElobXM?oc=5",
+    "source": "비즈니스포스트",
+    "published": "Thu, 19 Nov 2026 23:45:40 GMT",
+    "collected_at": 1795136616,
+    "score": 8,
+    "reason": "글로벌 금리 인상 부담과 위험자산 기피 심리로 가상자산 시장 전반의 변동성 확대",
+    "hook": "비트코인 급락… 6만 달러선 무너지나"
+  },
+  "2e61e95b1438": {
+    "id": "2e61e95b1438",
+    "title": "잊었던 실손보험금, 내년부터 3년치 한번에 받을 수 있다 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sQU0wQkkxMl9TWGRDT1VKSVVDanVBdXVuUnJjYlBEN1o5aVNmbVhLZnk1RWp5bk9mTjBwcmJIOEZ0QzNCYUl1U1FSN3ZNNXN5X21DbW5weHVaQdIBX0FVX3lxTFBQdFhEa1ZDeV9Dbk1sWmhVWEVncklrUUdDR0ZYOWZiZmswN3pZNUwwY2t5Ny1fUnlTMzdXMVVxbnNfVGMzSFVTM0N1VDJwTmhWdmpqZDBxZXQxVjBxMFhn?oc=5",
+    "source": "경향신문",
+    "published": "Thu, 19 Nov 2026 05:10:00 GMT",
+    "collected_at": 1795136615,
+    "score": 7,
+    "reason": "개인투자자들의 실생활 자금 유입 및 자산 관리에 도움이 되는 민생·금융 제도 변화",
+    "hook": "못 받은 실손보험금, 3년치 한번에?"
   }
 }
